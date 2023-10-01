@@ -1,4 +1,4 @@
-# NETFLIX CLONE
+
 # Netflix Clone Project
 
 ![Netflix Logo](link-to-your-logo.png) <!-- Replace with your logo or project banner -->
@@ -7,9 +7,6 @@
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -30,27 +27,6 @@ This Netflix Clone Project is a web application designed to replicate some of th
 - **Search Functionality:** Search for specific titles or genres.
 
 - **Responsive Design:** The app is optimized for various screen sizes and devices.
-
-## Demo
-
-[Link to Live Demo](https://your-live-demo-link.com)
-
-You can check out the live demo of the Netflix Clone Project by following the link above.
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/yourusername/netflix-clone.git`
-2. Navigate to the project directory: `cd netflix-clone`
-3. Install dependencies: `npm install` or `yarn install`
-
-## Usage
-
-After completing the installation steps:
-
-1. Start the development server: `npm start` or `yarn start`
-2. Open your web browser and visit `http://localhost:3000` to access the application.
 
 ## Contributing
 
