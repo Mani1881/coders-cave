@@ -1,7 +1,8 @@
 
 # Netflix Clone Project
+![download](https://github.com/Mani1881/coders-cave-project1/assets/97738136/26455ef2-af25-4105-aa25-42c4940eb1a1)
 
-![Netflix Logo](link-to-your-logo.png) <!-- Replace with your logo or project banner -->
+ <!-- Replace with your logo or project banner -->
 
 ## Table of Contents
 
